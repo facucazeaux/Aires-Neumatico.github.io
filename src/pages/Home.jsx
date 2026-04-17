@@ -140,7 +140,7 @@ export default function Home() {
           <div className={`hero-media${heroIn ? " fade-up fade-up-delay-2" : ""}`}>
             <div className="hero-img-wrap">
               <img
-                src="./img-neumaticos/negocio_por_fuera.jpg"   
+                src="/img-neumaticos/negocio_por_fuera.jpg"   
                 alt="Local Aires Neumáticos"
               />
             </div>
