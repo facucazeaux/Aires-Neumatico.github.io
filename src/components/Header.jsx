@@ -25,7 +25,7 @@ export default function Header() {
       <div className="container header-inner">
         <Link className="brand" to="/">
           <div className="brand-logo">
-            <img src="/img-neumaticos/logo.jpg" alt="Aires Neumáticos logo" />
+            <img src="img-neumaticos/logo.jpg" alt="Aires Neumáticos logo" />
           </div>
           <span className="brand-text">Aires Neumáticos</span>
         </Link>

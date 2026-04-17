@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container footer-inner">
         <div className="footer-brand">
-          <img src="/img-neumaticos/logo.jpg" alt="Aires Neumáticos" style={{ width: 24, height: 24, objectFit: 'contain', borderRadius: 4 }} />
+          <img src="img-neumaticos/logo.jpg" alt="Aires Neumáticos" style={{ width: 24, height: 24, objectFit: 'contain', borderRadius: 4 }} />
           <span>Aires Neumáticos</span>
         </div>
         <p className="footer-copy">
